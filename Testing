@@ -1,3 +1,3 @@
+print("Hello World! This is a random number generator. Kind of...")
 import random
 random.randint(1,100)
-print("Hello World! This is a random number generator. Kind of")
